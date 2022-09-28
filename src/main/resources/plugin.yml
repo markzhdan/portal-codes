@@ -1,0 +1,6 @@
+name: PortalCodes
+version: ${project.version}
+main: me.cuft.portalcodes.PortalCodes
+api-version: 1.17
+commands:
+  codes:

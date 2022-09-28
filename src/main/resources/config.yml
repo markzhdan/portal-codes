@@ -1,0 +1,23 @@
+# portal combinations (block 1, block 2, Title Color, Title Text, Subtitle Text, Command)
+codes:
+  '[OBSIDIAN, STONE]':
+    color: BLUE
+    title: Water Dimension
+    subtitle: Unclaimed
+    commands: ["warp A {PLAYER}"]
+  '[BASALT, NETHERRACK]':
+    color: RED
+    title: Fire Dimension
+    subtitle: Claimed by Cuft
+    commands: ["warp A {PLAYER}"]
+  '[item1, item2]':
+    color: WHITE
+    title: Water Dimension
+    subtitle: Unclaimed
+    commands: ["warp A {PLAYER}"]
+
+default:
+  color: DARK_PURPLE
+  title: Corrupted
+  subtitle: Be Careful!
+  commands: ["warp world {PLAYER}"]
