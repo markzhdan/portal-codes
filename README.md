@@ -1,4 +1,4 @@
-# MCSpigot-PortalCodes
+# Portal Codes
 >One of my big projects...
 
 Minecraft Spigot plugin for Odium SMP.
